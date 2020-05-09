@@ -1,0 +1,7 @@
+The entire game is contained in the file "Maxwell.java"
+The class "Maxwell" has the main function
+To play the game, simply run the file (if in an IDE), or call main from Maxwell
+The game's initial state is with no balls. To add balls, just press the add button.
+This allows the user to determine the difficulty of their game.
+To reset the game, press the reset button.
+I hope you enjoy!
